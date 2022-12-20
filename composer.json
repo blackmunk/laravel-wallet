@@ -43,7 +43,7 @@
     "phpunit/phpunit": "^9.5",
     "rector/rector": "^0.12",
     "symplify/easy-coding-standard": "^10.2",
-    "vimeo/psalm": "^4.22"
+    "vimeo/psalm": "^5.4"
   },
   "suggest": {
     "bavix/laravel-wallet-swap": "Addition to the laravel-wallet library for quick setting of exchange rates",
