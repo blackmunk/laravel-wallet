@@ -36,7 +36,7 @@
     "cknow/laravel-money": "^6.3",
     "ergebnis/phpstan-rules": "^1.0",
     "infection/infection": "~0.26",
-    "laravel/cashier": "^13.8",
+    "laravel/cashier": "^14.6",
     "nunomaduro/collision": "^6.2",
     "orchestra/testbench": "^7.4",
     "phpstan/phpstan": "^1.6",
